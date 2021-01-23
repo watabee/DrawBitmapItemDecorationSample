@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">12sp</dimen>
+
+    <dimen name="image_width">104dp</dimen>
+    <dimen name="image_height">147dp</dimen>
+
+    <dimen name="space">120dp</dimen>
+
+    <dimen name="item_height">96dp</dimen>
+</resources>
